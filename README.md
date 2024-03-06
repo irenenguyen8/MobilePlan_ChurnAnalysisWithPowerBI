@@ -22,6 +22,8 @@ The dataset provides user information of a telecommunications company, including
 
 ## Usage
 
+To have a quick look, refer to dashboard_user_churn.pdf file.
+
 To use the PowerBI dashboard:
 
 1. Download and install PowerBI Desktop from [Microsoft's website](https://powerbi.microsoft.com/desktop/).

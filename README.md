@@ -20,36 +20,6 @@ The PowerBI dashboard serves the following purposes:
 
 The dataset provides user information of a telecommunications company, including demographic data, services that customers are using, and information related to user churn.
 
-### Data Dictionary
-
-- **Customer ID**: Customer ID.
-- **Churn Label**: Indicates whether the customer has churned or not.
-- **Account Length (in months)**: Time from when the customer opened the account to the current time.
-- **Local Calls**: Number of local calls.
-- **Local Mins**: Duration of local calls.
-- **Intl Calls**: Number of international calls.
-- **Intl Mins**: Duration of international calls.
-- **Intl Active**: Indicates if the customer is subscribed to international calling.
-- **Extra International Charges**: Extra charges for international calls.
-- **Customer Service Calls**: Number of customer service calls made.
-- **Avg Monthly GB Download**: Average monthly GB downloaded.
-- **Unlimited Data Plan**: Indicates if the customer is using an unlimited data plan.
-- **Extra Data Charges**: Extra charges for data usage.
-- **State**: Customer's state.
-- **Phone Number**: Customer's phone number.
-- **Gender**: Customer's gender.
-- **Age**: Customer's age.
-- **Under 30**: Indicates if the customer is under 30 years old.
-- **Group**: Indicates if the customer is subscribed to group services.
-- **Number of Customers in Group**: Number of people in the group.
-- **Device Protection & Online Backup**: Indicates if the customer is using device protection and online backup services.
-- **Contract Type**: Type of contract.
-- **Payment Method**: Payment method.
-- **Monthly Charge**: Monthly charge paid by the customer.
-- **Total Charges**: Total charges paid by the customer.
-- **Churn Category**: Churn category.
-- **Churn Reason**: Reason for churn.
-
 ## Usage
 
 To use the PowerBI dashboard:
